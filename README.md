@@ -19,7 +19,7 @@ I'm currently a Btech 3rd year student, focusing on projects related to DSA, CP,
 -->
 I'm currently learning DSA, CP, and WebDev to enhance my skills in algorithms, competitive programming, and web development.
 
-## 👯 Looking to Collaborate
+## 🙌 Looking to Collaborate
 
 <!--
 **Replace this with what you're looking to collaborate on**
