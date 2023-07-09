@@ -3,7 +3,7 @@
 <!--
 **Replace this with your GitHub username** 
 -->
-I'm [Keyur1284](https://github.com/Keyur1284), a passionate developer from Gujarat, India.
+I'm [Keyur Govrani](https://github.com/Keyur1284), a passionate developer from Gujarat, India.
 
 ## 🔭 What I'm Working On
 
@@ -51,6 +51,10 @@ Fun fact: I can spend hours coding, but as soon as I encounter a bug, my favorit
 -->
 [![Keyur1284's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keyur1284&show_icons=true&theme=radical)](https://github.com/Keyur1284)
 
-## 👀 Visitors
+## #️⃣ Top Languages 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyur1284&show_icons=true&theme=transparent&layout=donut)
+
+
+<!-- ## 👀 Visitors -->
 <!-- ![Visitors](https://profile-counter.glitch.me/Keyur1284/count.svg) -->
-![Visitors](https://moe-counter.glitch.me/get/@Keyur1284?theme=rule34)
+<!-- ![Visitors](https://moe-counter.glitch.me/get/@Keyur1284?theme=rule34) -->
