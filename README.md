@@ -68,14 +68,6 @@ Fun fact: I can spend hours coding, but as soon as I encounter a bug, my favorit
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Keyur1284&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 
-## :hammer_and_wrench: Top Languages and Tools
----
-<div>
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt = "C" width="40" height="40"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt = "C++" width="40" height="40"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt = "C++" width="40" height="40"/> &nbsp;
-  </div>
-
 ## 💼 Technical Skills
 
 <p align="center">
@@ -103,6 +95,9 @@ Fun fact: I can spend hours coding, but as soon as I encounter a bug, my favorit
 </p>
 
 <br>
+
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyur1284&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ## 👀 Visitors -->
