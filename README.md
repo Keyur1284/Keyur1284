@@ -76,8 +76,33 @@ Fun fact: I can spend hours coding, but as soon as I encounter a bug, my favorit
   <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt = "C++" width="40" height="40"/> &nbsp;
   </div>
 
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyur1284&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## 💼 Technical Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,py" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  </a>
+</p>
+
+<br>
 
 
 <!-- ## 👀 Visitors -->
