@@ -61,9 +61,6 @@ Fun fact: I can spend hours coding, but as soon as I encounter a bug, my favorit
 
 ## 📊 GitHub Stats
 
-<!--
-**Replace this with a link to your GitHub stats (e.g., GitHub Readme Stats)**
--->
 [![Keyur1284's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keyur1284&show_icons=true&theme=radical)](https://github.com/Keyur1284)
 
 ## :fire: GitHub Streak Stats
@@ -100,7 +97,7 @@ Fun fact: I can spend hours coding, but as soon as I encounter a bug, my favorit
 <br>
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyur1284&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyur1284&theme=vision-friendly-darkshow_icons=true&layout=donut)
 
 
 <!-- ## 👀 Visitors -->
