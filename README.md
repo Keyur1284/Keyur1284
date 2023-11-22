@@ -67,6 +67,9 @@ Fun fact: I can spend hours coding, but as soon as I encounter a bug, my favorit
 --- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Keyur1284&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keyur1284&custom_title=Keyur1284's%20GitHub%20Activity%20Graph&bg_color=141321&color=4084B4&line=21724B&point=4084B4&area_color=3EEEC8&title_color=4084B4&area=true" alt="Keyur1284's Github Activity Graph" width="100%"/>
+</div>
 
 ## 💼 Technical Skills
 
