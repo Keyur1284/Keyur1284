@@ -19,7 +19,7 @@ I'm [Keyur Govrani](https://github.com/Keyur1284), a passionate developer from G
 
 ## 🔭 What I'm Working On
 
-I'm currently a Btech pre final year student, focusing on projects related to DSA, CP, and WebDev.
+I'm currently a Btech final year student, focusing on projects related to DSA, CP, and WebDev.
 
 ## 🌱 What I'm Learning
 
@@ -31,7 +31,7 @@ I'm open to collaborating on interesting projects related to DSA, CP, or WebDev.
 
 ## 💬 Ask Me About
 
-I'm knowledgeable about C, C++, and Basics of HTML, CSS, and React JS. Feel free to ask me anything related to these topics.
+I'm knowledgeable about C, C++, and Basics of HTML, CSS, React JS, Node JS, Mongo DB and Express JS. Feel free to ask me anything related to these topics.
 
 ## 📫 How to Reach Me
 
