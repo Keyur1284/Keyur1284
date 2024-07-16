@@ -19,7 +19,7 @@ I'm [Keyur Govrani](https://github.com/Keyur1284), a passionate developer from G
 
 ## 🔭 What I'm Working On
 
-I'm currently a Btech final year student, focusing on projects related to DSA, CP, and WebDev.
+I'm currently a BTech final year student, focusing on projects related to DSA, CP, and WebDev.
 
 ## 🌱 What I'm Learning
 
@@ -57,15 +57,10 @@ Fun fact: I can spend hours coding, but as soon as I encounter a bug, my favorit
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -79,6 +74,11 @@ Fun fact: I can spend hours coding, but as soon as I encounter a bug, my favorit
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+  </a>
+</p>
 <br>
 
 ## Languages
