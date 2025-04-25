@@ -14,7 +14,7 @@ I'm [Keyur Govrani](https://github.com/Keyur1284), a passionate developer from G
 <img src="https://komarev.com/ghpvc/?username=Keyur1284&style=flat-square&color=blue" alt=""/>
 </div>
 <div id = "counter" align = "center">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tweneboah" alt="tweneboah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyur1284" alt="keyur1284" /></a> </p>
 </div>
 
 ## 🔭 What I'm Working On
