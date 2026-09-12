@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm [Keyur Govrani](https://github.com/Keyur1284), a passionate developer from Gujarat, India.
+I'm [Keyur Govrani](https://github.com/Keyur1284), a **Senior Platform Engineer at UnifyApps** based in Gujarat, India, building the low-code platform humans and AI agents both use.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120">
@@ -16,7 +16,7 @@ I'm [Keyur Govrani](https://github.com/Keyur1284), a passionate developer from G
   <img src="https://komarev.com/ghpvc/?username=keyur1284&style=flat-square&color=blue" alt="profile views"/>
 </div>
 
-<div id = "counter" align = "center">
+<div id="trophies" align="center">
   <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=keyur1284" alt="keyur1284" />
@@ -30,27 +30,28 @@ I'm [Keyur Govrani](https://github.com/Keyur1284), a passionate developer from G
 
 - Automate the routine, focus on the hard 20%
 - Trust-but-verify (tests, profiling, reviews)
-- Performance is a feature — not an afterthought
+- Performance is a feature, not an afterthought
 
 ## 🔭 What I'm Working On  
 
-I'm currently working on frontend development using **React, Next.js, React Query**, and other modern web technologies.
+The UnifyApps low-code platform: the app builder, the web and React Native runtimes it ships to, and the MCP tooling that lets AI agents build on the same surfaces humans do. Day to day that means React render-path performance, design tokens shared across web and native, and agents that turn a prompt into a working app or workflow.
 
 ## 🌱 What I'm Learning  
 
-Continuously improving my knowledge in **frontend performance optimization, scalable UI architecture, and advanced state management**.
+Making a builder machine-operable: MCP tool design, agent evals, and the knowledge layer an LLM needs to edit a page correctly the first time.
 
 ## 🙌 Looking to Collaborate  
 
-I’m open to collaborating on **frontend projects, UI/UX improvements, and web performance optimizations**. Let’s build something amazing together!
+Low-code and no-code runtimes, React performance, and tooling that lets AI agents work inside real products.
 
 ## 💬 Ask Me About  
 
 I'm experienced in:  
-- **Frontend**: React.js, Next.js, React Query, Tailwind CSS, Material UI  
+- **Frontend**: React, Next.js, React Native, TypeScript, React Query, Zustand, Tailwind CSS, Joy UI  
+- **AI tooling**: MCP servers, agent workflows, LLM evals  
+- **Platform**: Turborepo monorepos, pnpm, design tokens across web + native  
 - **Backend**: Node.js, Express.js, MongoDB, PostgreSQL  
-- **CI/CD & Automation**: GitHub Actions, GitHub Workflows  
-- **Other**: Git, GitHub
+- **CI/CD**: GitHub Actions
 
 ## 📫 How to Reach Me  
 
@@ -58,7 +59,7 @@ You can reach me via [email](mailto:keyurgovrani6912@gmail.com). Let's get in to
 
 ## ⚡ Fun Fact  
 
-I treat AI like a junior teammate: great drafts, mandatory reviews — DevTools gets the final say. 😄  
+I treat AI like a junior teammate: great drafts, mandatory reviews, and DevTools gets the final say. 😄  
 
 ---
 
@@ -68,7 +69,7 @@ I treat AI like a junior teammate: great drafts, mandatory reviews — DevTools 
 
 ## 🔥 GitHub Streak
 --- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Keyur1284&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Keyur1284&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keyur1284&custom_title=Keyur1284's%20GitHub%20Activity%20Graph&bg_color=141321&color=4084B4&line=21724B&point=4084B4&area_color=3EEEC8&title_color=4084B4&area=true" alt="Keyur1284's Github Activity Graph" width="100%"/>
@@ -96,4 +97,4 @@ I treat AI like a junior teammate: great drafts, mandatory reviews — DevTools 
 
 
 ## 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyur1284&theme=vision-friendly-darkshow_icons=true&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyur1284&theme=vision-friendly-dark&show_icons=true&layout=donut)
