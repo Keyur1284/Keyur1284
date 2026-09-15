@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm [Keyur Govrani](https://github.com/Keyur1284), a **Senior Platform Engineer at UnifyApps** based in Gujarat, India, building the low-code platform humans and AI agents both use.
+I'm [Keyur Govrani](https://github.com/Keyur1284), a **Senior Platform Engineer at UnifyApps** based in Gujarat, India, building the platform humans and AI agents both build products on.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120">
